@@ -1,1 +1,5 @@
 ERROR:root:Division by zero error: division by zero
+ERROR:root:This is an error.
+ERROR:root:Division by zero occurred.
+INFO:RotatingLogger:This is a rotating log message.
+ERROR:root:Error reading file: [Errno 2] No such file or directory: 'nonexistent_file.txt'
